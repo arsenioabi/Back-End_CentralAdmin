@@ -1,0 +1,14 @@
+PRODUCT_ENVIRONMENT= "DEV" #DEV/PROD
+
+PORT = "5000"
+BASE_URL = "http://127.0.0.1:5000"
+FRONTEND_URL = "http://127.0.0.1:8035"
+
+DB_NAME = "central_admin_2"
+DB_USER = "root"
+DB_PASSWORD = ""
+DB_HOST = "localhost"
+
+JWT_SECRET_KEY = "H4ff??SLKHAMWon2027##PP"
+EMAIL_API_KEY = "f99aecef3d12e02dcbb6260bbdd35189c89e6e73"
+EMAIL_SERVICE_URL = "https://gate.bisaai.id:8080/bisaai_mail/mail/"
